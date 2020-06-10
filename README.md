@@ -1,2 +1,2 @@
-# fadil-portofolio
-Repository untuk portofolio furqon fadhilah
+# sistem pakar untuk penyakit kulit pada kucing
+menggunakan metode naive bayes LENGKAP
