@@ -1,3 +1,2 @@
-# sistem-pakar-penyakit-kulit-kucing
-Sistem Pakar Untuk Diagnosa Penyakit Kulit Pada Kucing
-klik yang satunya 
+# Home-Fadil
+masuk ke situs https://github.com/furqonfadhilah/sipaking
